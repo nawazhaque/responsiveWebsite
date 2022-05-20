@@ -212,7 +212,7 @@ main {
     max-width: 10px;
   }
   .image2{
-    max-width: 6rem;
+    max-width: 4rem;
     margin-left: 60px;
   }
   .member {
@@ -220,7 +220,7 @@ main {
     font-size: 10px;
   }
   .hpMember{
-    margin-top: -9rem;
+    margin-top: -6.7rem;
     font-size:12px;
     margin-left: 5rem;
   }
@@ -245,7 +245,8 @@ main {
   }
   .card{
     margin-left: -70px;
-    max-height:10rem;
+    max-height:8rem;
+    max-width: 11rem;
   }
   .gameTitle{
     font-size:10px;
